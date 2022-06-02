@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning PHP and Laravel
 
 - 📫 How to reach me: [email](@mailto:juancarlo.castillo20@gmail.com)
-- 😄 Pronouns: he/him/they
-- ⚡ Fun fact: shooting wirth my sony a7II
+- ⚡ Fun fact: shooting with my sony a7II
 
 <!--
 **JCsomeShots/JCsomeShots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
