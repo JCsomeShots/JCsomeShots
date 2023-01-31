@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working like a freelance
-- 🌱 I’m currently learning PHP and Laravel
+- 🌱 I’m currently working at Moodle, PHP and Laravel
 
 - 📫 How to reach me: [email](@mailto:juancarlo.castillo20@gmail.com)
 - ⚡ Fun fact: shooting with my sony a7II
