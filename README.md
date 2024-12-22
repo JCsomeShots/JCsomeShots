@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working like a freelance
-- 🌱 I’m currently working at Moodle, PHP and Laravel
+- 🔭 I’m currently working at Eurecat
+- 🌱 I’m currently working at Moodle, PHP, Laravel, Javascript, React, Python, bash
 
 - 📫 How to reach me: [email](@mailto:juancarlo.castillo20@gmail.com)
 - ⚡ Fun fact: shooting with my sony a7II
+
+- 🌱 I’m currently learning Cibersecurity
+
 
 <!--
 **JCsomeShots/JCsomeShots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
