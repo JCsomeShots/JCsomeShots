@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at Eurecat
+- 🌱 I’m currently working like a teacher at IT - Academy 
 - 🌱 I’m currently working at Moodle, PHP, Laravel, Javascript, React, Python, bash
 
 - 📫 How to reach me: [email](@mailto:juancarlo.castillo20@gmail.com)
 - ⚡ Fun fact: shooting with my sony a7II
 
-- 🌱 I’m currently learning Cibersecurity
 
 
 <!--
